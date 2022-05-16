@@ -7,5 +7,7 @@ int main()
 	{
 		cout << "*" << endl;
 	}
+	int a = 5, b = 4;
+	cout << a + b << endl;
 	return 0;
 }
