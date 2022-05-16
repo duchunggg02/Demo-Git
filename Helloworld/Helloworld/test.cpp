@@ -9,5 +9,6 @@ int main()
 	}
 	int a = 5, b = 4;
 	cout << a + b << endl;
+	cout << "Hung dep trai";
 	return 0;
 }
